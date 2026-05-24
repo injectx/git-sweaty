@@ -4145,5 +4145,31 @@
     "start_date_local": "2026-05-22T20:48:17Z",
     "type": "EMountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 29601.2,
+    "elevation_gain": 0.0,
+    "id": "18632440058",
+    "moving_time": 3630.0,
+    "name": "MyWhoosh - Neuromuscular with AC #1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-24T11:09:32Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 28207.4,
+    "elevation_gain": 0.0,
+    "id": "18632455316",
+    "moving_time": 3395.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-24T11:13:00Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
