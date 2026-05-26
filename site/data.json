@@ -2246,6 +2246,13 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 20,
+      "subtype": "EMountainBikeRide",
+      "type": "EMountainBikeRide",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4565,6 +4572,15 @@
           "distance": 23465.0,
           "elevation_gain": 221.0,
           "moving_time": 3591.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18652827763"
+          ],
+          "count": 1,
+          "distance": 29982.0,
+          "elevation_gain": 338.0,
+          "moving_time": 4979.0
         }
       },
       "Ride": {
@@ -5105,7 +5121,7 @@
       }
     }
   },
-  "generated_at": "2026-05-25T17:12:18.978146+00:00",
+  "generated_at": "2026-05-26T18:05:49.779998+00:00",
   "other_bucket": "OtherSports",
   "repo": "injectx/git-sweaty",
   "source": "strava",

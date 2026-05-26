@@ -4171,5 +4171,18 @@
     "start_date_local": "2026-05-24T11:13:00Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 29982.0,
+    "elevation_gain": 338.0,
+    "id": "18652827763",
+    "moving_time": 4979.0,
+    "name": "Evening E-Mountain Bike Ride",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EMountainBikeRide",
+    "start_date_local": "2026-05-25T20:29:30Z",
+    "type": "EMountainBikeRide",
+    "year": 2026
   }
 ]
