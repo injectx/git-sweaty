@@ -4184,5 +4184,18 @@
     "start_date_local": "2026-05-25T20:29:30Z",
     "type": "EMountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 27508.4,
+    "elevation_gain": 0.0,
+    "id": "18675968190",
+    "moving_time": 3324.0,
+    "name": "MyWhoosh - 20min Tempo w/15sec Accelerations",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-27T15:50:26Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
