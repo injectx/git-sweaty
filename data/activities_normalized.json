@@ -4210,5 +4210,31 @@
     "start_date_local": "2026-05-27T20:25:57Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 26221.0,
+    "elevation_gain": 413.2,
+    "id": "18693091813",
+    "moving_time": 4222.0,
+    "name": "Gulpen MTB route",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EMountainBikeRide",
+    "start_date_local": "2026-05-28T19:38:52Z",
+    "type": "EMountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 21152.1,
+    "elevation_gain": 171.0,
+    "id": "18703577982",
+    "moving_time": 3345.0,
+    "name": "Afternoon E-Mountain Bike Ride",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EMountainBikeRide",
+    "start_date_local": "2026-05-29T16:13:32Z",
+    "type": "EMountainBikeRide",
+    "year": 2026
   }
 ]
