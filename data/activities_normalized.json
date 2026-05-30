@@ -4236,5 +4236,31 @@
     "start_date_local": "2026-05-29T16:13:32Z",
     "type": "EMountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 16458.0,
+    "elevation_gain": 152.7,
+    "id": "18706145695",
+    "moving_time": 2381.0,
+    "name": "Ride 2026-05-29 eBike Connect",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-05-29T20:41:14Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 22874.0,
+    "elevation_gain": 102.7,
+    "id": "18706639269",
+    "moving_time": 3721.0,
+    "name": "Ride 2026-05-29 eBike Connect",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-05-29T16:12:48Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
