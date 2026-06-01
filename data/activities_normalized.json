@@ -4288,5 +4288,31 @@
     "start_date_local": "2026-05-31T11:56:40Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 39565.0,
+    "elevation_gain": 405.0,
+    "id": "18744833124",
+    "moving_time": 6254.0,
+    "name": "Afternoon E-Bike Ride",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-06-01T17:48:58Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 40749.0,
+    "elevation_gain": 294.4,
+    "id": "18744862484",
+    "moving_time": 6356.0,
+    "name": "Ride 2026-06-01 eBike Connect",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-06-01T17:44:41Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
