@@ -4340,5 +4340,18 @@
     "start_date_local": "2026-06-02T17:57:11Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 27278.7,
+    "elevation_gain": 143.0,
+    "id": "18785315494",
+    "moving_time": 3625.0,
+    "name": "MyWhoosh - Neuromuscular with AC #1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-04T16:35:52Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
