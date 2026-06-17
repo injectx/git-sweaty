@@ -4405,5 +4405,18 @@
     "start_date_local": "2026-06-13T13:38:16Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 32096.1,
+    "elevation_gain": 323.8,
+    "id": "18948663007",
+    "moving_time": 5153.0,
+    "name": "Avondritje",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-16T20:09:23Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
