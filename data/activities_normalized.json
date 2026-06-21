@@ -4418,5 +4418,18 @@
     "start_date_local": "2026-06-16T20:09:23Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 23630.8,
+    "elevation_gain": 227.6,
+    "id": "19011393784",
+    "moving_time": 3544.0,
+    "name": "MyWhoosh - Sweetspot 20 minute",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-21T15:37:30Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
