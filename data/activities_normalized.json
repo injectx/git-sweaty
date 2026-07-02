@@ -4457,5 +4457,31 @@
     "start_date_local": "2026-06-25T17:24:42Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 26718.6,
+    "elevation_gain": 343.2,
+    "id": "19142778890",
+    "moving_time": 4610.0,
+    "name": "Meerssen MTB route",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EMountainBikeRide",
+    "start_date_local": "2026-07-01T20:51:13Z",
+    "type": "EMountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 28407.0,
+    "elevation_gain": 244.0,
+    "id": "19147037936",
+    "moving_time": 4742.0,
+    "name": "MTB Route Meerssen (2)",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EMountainBikeRide",
+    "start_date_local": "2026-07-01T20:46:18Z",
+    "type": "EMountainBikeRide",
+    "year": 2026
   }
 ]
