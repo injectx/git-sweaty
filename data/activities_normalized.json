@@ -4483,5 +4483,18 @@
     "start_date_local": "2026-07-01T20:46:18Z",
     "type": "EMountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 14364.4,
+    "elevation_gain": 565.6,
+    "id": "19177992279",
+    "moving_time": 14080.0,
+    "name": "Luxemburg Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-04T11:43:14Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

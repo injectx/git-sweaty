@@ -2414,6 +2414,13 @@
       "subtype": "EMountainBikeRide",
       "type": "EMountainBikeRide",
       "year": 2026
+    },
+    {
+      "date": "2026-07-04",
+      "hour": 11,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4811,6 +4818,17 @@
           "moving_time": 9352.0
         }
       },
+      "Hike": {
+        "2026-07-04": {
+          "activity_ids": [
+            "19177992279"
+          ],
+          "count": 1,
+          "distance": 14364.4,
+          "elevation_gain": 565.6,
+          "moving_time": 14080.0
+        }
+      },
       "Ride": {
         "2026-03-28": {
           "activity_ids": [
@@ -5449,7 +5467,7 @@
       }
     }
   },
-  "generated_at": "2026-07-03T16:42:01.172925+00:00",
+  "generated_at": "2026-07-04T16:10:53.628818+00:00",
   "other_bucket": "OtherSports",
   "repo": "injectx/git-sweaty",
   "source": "strava",
@@ -5461,6 +5479,10 @@
     "EMountainBikeRide": {
       "accent": "#72efdd",
       "label": "EMountain Bike Ride"
+    },
+    "Hike": {
+      "accent": "#d6ff6b",
+      "label": "Hike"
     },
     "Ride": {
       "accent": "#05ffa1",
@@ -5490,6 +5512,7 @@
   "types": [
     "EBikeRide",
     "EMountainBikeRide",
+    "Hike",
     "Ride",
     "Run",
     "TrailRun",
