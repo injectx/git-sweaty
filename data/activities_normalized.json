@@ -4496,5 +4496,18 @@
     "start_date_local": "2026-07-04T11:43:14Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 26740.0,
+    "elevation_gain": 419.0,
+    "id": "19206241621",
+    "moving_time": 4184.0,
+    "name": "Meerssen MTB Route poging 2",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EMountainBikeRide",
+    "start_date_local": "2026-07-06T20:07:40Z",
+    "type": "EMountainBikeRide",
+    "year": 2026
   }
 ]
