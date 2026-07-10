@@ -4509,5 +4509,31 @@
     "start_date_local": "2026-07-06T20:07:40Z",
     "type": "EMountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 7245.9,
+    "elevation_gain": 146.4,
+    "id": "19256440683",
+    "moving_time": 1270.0,
+    "name": "Meerssen MTB Route poging 3.. band lek",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EMountainBikeRide",
+    "start_date_local": "2026-07-10T15:36:37Z",
+    "type": "EMountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 8228.0,
+    "elevation_gain": 59.6,
+    "id": "19256441086",
+    "moving_time": 1399.0,
+    "name": "Ride 2026-07-10 eBike Connect",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-07-10T15:35:14Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
